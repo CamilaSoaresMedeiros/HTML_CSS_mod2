@@ -1,0 +1,6 @@
+para deixar a sombra menos forte, não trocar cor e sim deixar mais transparente
+box-shadow: px (tamanho para o lado), px (tamanho para baixo ou cima) e black (cor, usar sempre preto)
+border-radius: px(altura superior esquerda) px(altura superior direita) px(altura inferior direita) px(altura infeiror esquerda)
+border-radius:px(todos os lados)
+border-radius: px(lado superior esquerdo e inferior direito) px(lado superior direito e inferior esquerdo)
+circulo pode ser feito com div dando cor de fundo, width, height e border-radius de 50%
